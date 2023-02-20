@@ -1,4 +1,14 @@
-### Hi there 👋
+Mechanical engineering major and computational mathematics minor student at University of the Andes.
+
+</div>
+
+# Principal interests:
+  - Robotics
+  - Dynamics of machines
+  - Industrial automation
+  
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nruizp2)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nruizp2/nruizp2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
