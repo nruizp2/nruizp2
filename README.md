@@ -1,13 +1,6 @@
 Mechanical engineering major and computational mathematics minor student at University of the Andes.
 
-</div>
 
-# Principal interests:
-  - Robotics
-  - Dynamics of machines
-  - Industrial automation
-  
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nruizp2)](https://github.com/anuraghazra/github-readme-stats)
 <!--
