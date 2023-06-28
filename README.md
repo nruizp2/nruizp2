@@ -1,4 +1,4 @@
-Mechanical engineering major and computational mathematics minor student at University of the Andes.
+Systems and computing engineering student at University of the Andes.
 
 
 
