@@ -1,4 +1,4 @@
-Systems and computing engineering student at University of the Andes.
+Systems and computing engineering student at Universidad de los Andes.
 
 
 
